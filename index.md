@@ -3,7 +3,7 @@
 
 # siddhesh-sakhalkar's Website
 
-An engaging 1-3 sentence description of your lab.
+Lab introduction comes here.
 
 {% include section.html %}
 
