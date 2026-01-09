@@ -1,6 +1,6 @@
 # site properties and page defaults
-title: siddhesh-sakhalkar
-subtitle: 
+title: M3 Lab
+#subtitle: 
 description: Website of the M3 (Mechanics, Modeling and Machine Learning) Lab
 header: images/Header_Siddhesh.jpg
 footer: images/Header_Siddhesh.jpg
@@ -12,8 +12,8 @@ links:
   orcid: 0000-0001-7726-0482
   google-scholar: XlBCKsUAAAAJ
   github: siddhesh-sakhalkar
-  twitter: 
-  youtube: 
+  #twitter: 
+  #youtube: 
 
 ### jekyll settings
 
