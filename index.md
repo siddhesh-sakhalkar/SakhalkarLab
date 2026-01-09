@@ -1,7 +1,7 @@
 ---
 ---
 
-# siddhesh-sakhalkar's Website
+# Home
 
 Lab introduction comes here.
 
