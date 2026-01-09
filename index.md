@@ -11,29 +11,6 @@ Lab introduction comes here.
 
 {% capture text %}
 
-One line description of publications.
-
-{%
-  include button.html
-  link="publications"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="publications"
-  title="Publications"
-  text=text
-%}
-
-{% capture text %}
-
 One line description of research.
 
 {%
@@ -77,5 +54,28 @@ One line description of people.
   image="images/photo.jpg"
   link="team"
   title="People"
+  text=text
+%}
+
+{% capture text %}
+
+One line description of publications.
+
+{%
+  include button.html
+  link="publications"
+  text="See our publications"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="publications"
+  title="Publications"
   text=text
 %}
