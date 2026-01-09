@@ -77,5 +77,7 @@ One line description of publications.
   image="images/photo.jpg"
   link="publications"
   title="Publications"
+  flip=true
+  style="bare"
   text=text
 %}
