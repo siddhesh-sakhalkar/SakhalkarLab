@@ -41,16 +41,4 @@
   --transition: 0.2s ease;
 }
 
-body {
-  font-family: var(--body);
-  font-size: 1rem;
-  font-weight: var(--regular);
-  line-height: 1.6;
-}
-
-p {
-  font-size: inherit;
-  line-height: inherit;
-}
-
 /*# sourceMappingURL=-theme.css.map */
