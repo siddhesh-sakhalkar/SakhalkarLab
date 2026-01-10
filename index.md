@@ -17,6 +17,7 @@ We utilize a combination of physics-based and data-driven techniques to investig
 
 ## **Highlights**
 
+### <span style="font-size: 1.5em; font-weight: bold;">Research</span>
 {% capture text %}
 
 Key areas of interest include Scientific Machine Learning (SciML) for engineering simulations, Micro- and Nanoscale Fluid Mechanics, Structural Mechanics & Dynamics and Tribology.
