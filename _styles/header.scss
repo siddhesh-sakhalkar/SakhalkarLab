@@ -133,9 +133,10 @@ header:not([data-big]) {
 }
 
 header[data-big] {
-  justify-content: center;
+  display: flex;
+  flex-direction: row;              //  was column
+  justify-content: space-between;   //  left/right
   align-items: center;
-  flex-direction: column;
   padding: $big-padding 20px;
 
   @if $sticky {
@@ -143,8 +144,13 @@ header[data-big] {
   }
 
   .home {
-    flex-direction: column;
-    flex-grow: 0;
+    flex-direction: row;            //  keep logo + title in a row
+    flex-grow: 0;                   //  don’t expand and steal space
+  }
+
+  nav {
+    margin-left: auto;              //  pushes nav to the far right
+    justify-content: flex-end;      //  align links right within nav
   }
 
   .logo {
@@ -153,9 +159,9 @@ header[data-big] {
   }
 
   .title-text {
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
+    flex-direction: column;         // optional: keeps title/subtitle stacked
+    align-items: flex-start;        //  left aligned
+    text-align: left;               //  left aligned
   }
 
   .title {
