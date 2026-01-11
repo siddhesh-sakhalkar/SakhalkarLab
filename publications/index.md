@@ -23,4 +23,18 @@ nav:
 
 {% include search-info.html %}
 
+<div class="accordion">
+  {% assign years = site.data.citations | group_by: 'year' %}
+  {% for year in years %}
+    <div class="accordion-item">
+      <button class="accordion-button" onclick="toggleAccordion('{{ year.name }}')">{{ year.name }}</button>
+      <div id="{{ year.name }}" class="accordion-content">
+        {% for citation in year.items %}
+          {% include citation.html lookup=citation.title style="rich" %}
+        {% endfor %}
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
 {% include list.html data="citations" component="citation" style="rich" %}
