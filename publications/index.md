@@ -14,7 +14,9 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Predicting device-to-device frequency response function variation during high-volume manufacturing of a hardware device" style="rich" %}
+
+{% include citation.html lookup="Effect of Rheology and Slip on Lubricant Deformation and Disk-to-Head Transfer During Heat-Assisted Magnetic Recording (HAMR)" style="rich" %}
 
 {% include section.html %}
 
