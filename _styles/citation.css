@@ -1,10 +1,11 @@
 .citation-container {
   container-type: inline-size;
+  margin-bottom: 10px;
 }
 
 .citation {
   display: flex;
-  margin: 20px 0;
+  margin: 10px 0;
   border-radius: var(--rounded);
   background: var(--background);
   overflow: hidden;
