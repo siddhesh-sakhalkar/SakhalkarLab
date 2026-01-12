@@ -20,13 +20,24 @@
   issued: "2022-05-31"
   url: "https://patents.google.com/patent/US11664047B2/en"
 
+- type: article
+  title: "Data storage device independently driving outer and inner fine actuators"
+  author: 
+    - Manoj Keshavan
+    - Yanning Liu
+    - Hitoshi Shindo
+    - Siddhesh Vivek Sakhalkar
+  issued: "2022-10-25"
+  note: "Patents cited: US11482254B2, CN202111350685.9A"
+  url: "https://patents.google.com/patent/US11482254B2/en"
+
 - type: patent
-    title: "Data storage device independently driving outer and inner fine actuators"
-    patent-number: "US11482254B2"
-    author:
-      - Manoj Keshavan
-      - Yanning Liu
-      - Hitoshi Shindo
-      - Siddhesh Vivek Sakhalkar
-    issued: "2022-10-25"
-    url: "https://patents.google.com/patent/US11482254B2/en"
+  title: "Anchoring structure for improved structural dynamics of actuators in a multi-actuator hard disk drive"
+  patent-number: "US11942121B2"
+  author:
+    - Jung-Seo Park
+    - Siddhesh Vivek Sakhalkar
+    - Thomas J. Hitchner
+    - Arman V. Golgolab
+  issued: "2026-03-26"
+  url: "https://patents.google.com/patent/US11942121B2/en"
