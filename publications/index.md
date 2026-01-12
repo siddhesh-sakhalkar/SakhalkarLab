@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-Test change 5
+Our published papers and patents are tabulated below.
 
 {% include section.html %}
 
