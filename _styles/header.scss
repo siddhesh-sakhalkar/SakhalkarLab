@@ -2,7 +2,7 @@
 ---
 
 $logo-big: 80px;
-$logo: 175px;
+$logo: 180px;
 $big-padding: 50px;
 $collapse: 700px;
 $sticky: false; //no sticky behavior for header
@@ -13,9 +13,9 @@ header {
   align-items: center;
   flex-wrap: wrap;
   gap: 20px;
-  padding: 10px 40px;
-  height: 235px;
-  max-height: 235px;
+  padding: 25px 40px;
+  //height: 230px;
+  //max-height: 230px;
   box-shadow: var(--shadow);
 
   @if $sticky {
