@@ -25,6 +25,7 @@ header a {
 
 .logo {
   height: 180px;
+  flex-shrink: 0;
 }
 
 .title-text {
