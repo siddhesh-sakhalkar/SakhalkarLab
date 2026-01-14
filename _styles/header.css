@@ -4,7 +4,7 @@ header {
   align-items: center;
   flex-wrap: wrap;
   gap: 20px;
-  padding: 25px 40px;
+  padding: 25px 20px;
   box-shadow: var(--shadow);
 }
 
@@ -47,7 +47,7 @@ header a {
 }
 
 .title {
-  font-size: calc(var(--xxl) * 1.15);
+  font-size: calc(var(--xxl) * 1.5);
 }
 
 .subtitle {
