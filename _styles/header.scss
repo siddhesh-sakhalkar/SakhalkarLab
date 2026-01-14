@@ -5,7 +5,7 @@ $logo-big: 80px;
 $logo: 120px;
 $big-padding: 50px;
 $collapse: 700px;
-$sticky: false;
+$sticky: false; //no sticky behavior for header
 
 header {
   display: flex;
