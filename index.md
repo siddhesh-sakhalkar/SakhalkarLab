@@ -1,5 +1,6 @@
 ---
 title: Home
+tooltip: Home
 nav:
   order: 1
 ---
