@@ -4,7 +4,7 @@ header {
   align-items: center;
   flex-wrap: wrap;
   gap: 20px;
-  padding: 45px 40px 45px 20px;
+  padding: 55px 40px 55px 20px;
   box-shadow: var(--shadow);
 }
 
@@ -24,7 +24,7 @@ header a {
 }
 
 .logo {
-  height: 140px;
+  height: 120px;
 }
 
 .logo > * {
