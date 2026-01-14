@@ -6,9 +6,6 @@ header {
   gap: 20px;
   padding: 45px 45px;
   box-shadow: var(--shadow);
-  position: sticky !important;
-  top: 0;
-  z-index: 10 !important;
 }
 
 header a {
@@ -127,7 +124,6 @@ header[data-big] {
   justify-content: space-between;
   align-items: center;
   padding: 50px 20px;
-  top: unset;
 }
 header[data-big] .home {
   flex-direction: row;
