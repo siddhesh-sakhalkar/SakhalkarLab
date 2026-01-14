@@ -27,11 +27,6 @@ header a {
   height: 180px;
 }
 
-.logo > * {
-  width: unset;
-  height: 100%;
-}
-
 .title-text {
   display: flex;
   justify-content: flex-start;
