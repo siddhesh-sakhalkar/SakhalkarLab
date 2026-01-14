@@ -1,8 +1,8 @@
 ---
 title: Home
-tooltip: Home
 nav:
   order: 1
+  tooltip: Home
 ---
 
 # **M<sup>3</sup> Lab: Mechanics, Modeling and Machine Learning Lab**
