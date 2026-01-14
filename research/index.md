@@ -1,8 +1,8 @@
 ---
 title: Research
 nav:
-  order: 1
-  tooltip: Software, datasets, and more
+  order: 2
+  tooltip: Projects, Areas of Interest
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Research
