@@ -5,7 +5,7 @@ nav:
   tooltip: Home
 ---
 
-# **M<sup>3</sup> Lab: Mechanics, Modeling and Machine Learning Lab**
+# **Mechanics, Modeling and Machine Learning (M<sup>3</sup>) Lab**
 
 Welcome to the M<sup>3</sup> Lab at the Indian Institute of Technology (IIT), Madras! We work at the intersection of mechanics, mathematics and artificial intelligence to design, simulate and optimize next-generation systems and devices. In particular, our lab's research focuses on developing theoretical frameworks, numerical models and machine learning methodologies to advance the mechanical design of engineering systems across multiple length scales — from macro to micro and nano. 
 
