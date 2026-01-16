@@ -6,10 +6,10 @@ nav:
 ---
 
 # **Mechanics, Modeling and Machine Learning (M<sup>3</sup>) Lab**
+ 
+Welcome to the M<sup>3</sup> Lab at the Indian Institute of Technology (IIT), Madras! We work at the intersection of mechanics, mathematics and artificial intelligence to design, simulate and optimize next-generation systems and devices. In particular, we focus on developing both physics-based and data-driven models to understand and predict the mechanical behavior of engineering systems across multiple length scales, ranging from macro to micro and nano.
 
-Welcome to the M<sup>3</sup> Lab at the Indian Institute of Technology (IIT), Madras! We work at the intersection of mechanics, mathematics and artificial intelligence to design, simulate and optimize next-generation systems and devices. In particular, we focus on developing both physics-based and data-driven models to advance the mechanical design of engineering systems across multiple length scales, ranging from macro to micro and nano.
-
-At the M<sup>3</sup> Lab, we study complex static and dynamic phenomena in solid and fluid mechanics, which are often governed by non-linear partial differential equations (PDEs). We develop theoretical frameworks, numerical models (including Finite Difference, Finite Element, Finite Volume models) and state-of-the-art machine learning methodologies (such as neural operators, foundation models) to solve these PDEs accurately and efficiently. We use these models for downstream tasks of practical relevance such as design optimization, uncertainty quantification and inverse problems in diverse domains including micro/nanofluidics, hydrodynamic and elasto-hydrodynamic lubrication, data storage (e.g., hard disk drives) and micro-electro-mechanical systems (MEMS).
+We study complex static and dynamic phenomena in solid and fluid mechanics, which are often governed by non-linear partial differential equations (PDEs). We develop theoretical frameworks, numerical models (including Finite Difference, Finite Element, Finite Volume models) and state-of-the-art machine learning methodologies (such as neural operators, foundation models) to solve these PDEs accurately and efficiently. Our models enable downstream tasks of practical relevance such as design optimization, uncertainty quantification and inverse problems in diverse domains including micro/nanofluidics, hydrodynamic and elasto-hydrodynamic lubrication, data storage (e.g., hard disk drives) and micro-electro-mechanical systems (MEMS).
 
 {%
   include figure.html
