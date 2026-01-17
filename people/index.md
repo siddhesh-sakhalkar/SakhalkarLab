@@ -13,23 +13,15 @@ We are actively looking for motivated undergraduate, graduate (Masters/PhD) and 
 
 {% capture text %}
 
-Prof. Siddhesh Sakhalkar is the Principal Investigator of the M<sup>3</sup> Lab. As a new lab, we are actively looking for motivated undergraduate, graduate (Masters/PhD) and post-doctoral candidates to join our team!
-
-{%
-  include button.html
-  link="people"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
+Prof. Siddhesh Sakhalkar 
+Incoming Assistant Professor
+Department of Mechanical Engineering
+IIT Madras
 
 {% endcapture %}
 
 {%
   include feature.html
   image="images/photo.jpg"
-  link="team"
-  title="People"
   text=text
 %}
