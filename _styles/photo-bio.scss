@@ -11,15 +11,15 @@
 }
 
 .photo-bio__photo {
-  width: 150px;
-  max-width: 150px;
-  flex: 0 0 150px;
+  width: 180px;
+  max-width: 180px;
+  flex: 0 0 180px;
 }
 
 .photo-bio__photo img {
   display: block;
   width: 100%;
-  max-width: 150px;
+  max-width: 180px;
   height: auto;
   border-radius: 0.75rem;
   object-fit: cover;
@@ -34,7 +34,7 @@
 /* Typography to match the "right" example */
 .photo-bio__name {
   margin: 0 0 0.6rem 0;
-  font-size: 1.75rem;
+  font-size: 1.6rem;
   line-height: 1.15;
   font-weight: 800;
   border: 0;
@@ -42,7 +42,7 @@
 }
 
 .photo-bio__subtitle {
-  margin: 0 0 0.3rem 0;
+  margin: 0 0 0.6rem 0;
   font-size: 1.3rem;
   line-height: 1.15;
   //font-weight: 400;
@@ -70,11 +70,11 @@
 
 /* Size presets */
 .photo-bio--sm .photo-bio__photo { width: 120px; max-width: 120px; flex: 0 0 120px; }
-.photo-bio--md .photo-bio__photo { width: 150px; max-width: 150px; flex: 0 0 150px; }
+.photo-bio--md .photo-bio__photo { width: 180px; max-width: 180px; flex: 0 0 180px; }
 .photo-bio--lg .photo-bio__photo { width: 240px; max-width: 240px; flex: 0 0 240px; }
 
 .photo-bio--sm .photo-bio__photo img { max-width: 120px; }
-.photo-bio--md .photo-bio__photo img { max-width: 150px; }
+.photo-bio--md .photo-bio__photo img { max-width: 180px; }
 .photo-bio--lg .photo-bio__photo img { max-width: 240px; }
 
 /* Optional right image */
