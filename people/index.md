@@ -5,9 +5,9 @@ nav:
   tooltip: About our Team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}People
+# {% include icon.html icon="fa-solid fa-users" %}**People**
 
-We are actively looking for motivated undergraduate, graduate (Masters/PhD) and post-doctoral candidates to join our team! If you would like to join us, please contact Prof. Sakhalkar (add-email) and include your CV with research interests and potential project ideas. We welcome researchers with different backgrounds in mechanical engineering, applied mathematics, computer science, data science/AI and related fields.
+We are actively looking for motivated undergraduate, graduate (Masters/PhD) and post-doctoral candidates to join our team! If you would like to join us, please contact Prof. Sakhalkar (siddheshsakhalkar1992@gmail.com) and include your CV with research interests. We welcome researchers from diverse backgrounds including mechanical engineering, civil engineering, applied mathematics, computer science, data science & AI and related fields.
 
 {% include section.html %}
 
