@@ -23,6 +23,6 @@ We are actively looking for motivated undergraduate, graduate (Masters/PhD) and 
 ## **<span style="font-size: 1.3em;">Current Students</span>**
 
 {% include photo_bio.html
-  image="images/Propective_student_headshot.jpg"
+  image="images/Propective_student_headshot.png"
   name="This could be you!"
 %}
