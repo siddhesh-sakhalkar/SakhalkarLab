@@ -30,7 +30,7 @@
 /* Typography to match the "right" example */
 .photo-bio__name {
   margin: 0 0 0.6rem 0;
-  font-size: 1.3rem;
+  font-size: 1.75rem;
   line-height: 1.15;
   font-weight: 800;
   border: 0;
@@ -38,15 +38,15 @@
 }
 
 .photo-bio__subtitle {
-  margin: 0 0 0rem 0;
-  font-size: 1rem;
+  margin: 0 0 0.3rem 0;
+  font-size: 1.3rem;
   line-height: 1.15;
   border: 0;
 }
 
 .photo-bio__details {
   margin: 0;
-  font-size: 1rem;
+  font-size: 1.3rem;
   line-height: 1.15;
   opacity: 1;
   border: 0;
