@@ -66,7 +66,7 @@ Prof. Siddhesh Sakhalkar is the Principal Investigator of the M<sup>3</sup> Lab.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Siddhesh_Sakhalkar_headshot_highlights.jpg"
   link="team"
   title="People"
   text=text
@@ -89,7 +89,7 @@ Please browse through our published work to learn more about our past research.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Publications.jpg"
   link="publications"
   title="Publications"
   flip=true
