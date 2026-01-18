@@ -17,6 +17,6 @@ If you would like to get in touch with us, please feel free to reach out to Prof
 {%
   include button.html
   type="Address"
-  tooltip="Our location on Google Maps for easy navigation"
+  text="Our location on Google Maps"
   link="https://maps.app.goo.gl/fNF8nmiYiR3qtRdJ7?g_st=iw"
 %}
