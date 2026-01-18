@@ -20,5 +20,3 @@ If you would like to get in touch with us, please feel free to reach out to Prof
   tooltip="Our location on Google Maps for easy navigation"
   link="https://maps.app.goo.gl/fNF8nmiYiR3qtRdJ7?g_st=iw"
 %}
-
-{% include section.html %}
