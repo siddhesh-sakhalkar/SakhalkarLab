@@ -13,7 +13,7 @@ Complex static and dynamic phenomena in solid and fluid mechanics are typically 
 
 {%
   include figure.html
-  image="images/logo_modified.png"
+  image="images/Home_image.png"
   width="750px"
   caption="Overview of M<sup>3</sup> Lab's research"
 %}
