@@ -22,7 +22,7 @@ Fun fact about IIT Madras: in addition to being the [top ranked institute](https
 
 {% include section.html %}
 
-## **<span style="font-size: 1.3em;">Highlights</span>**
+## **<span style="font-size: 1.3em;">Explore M<sup>3</sup> Lab</span>**
 
 {% capture text %}
 
