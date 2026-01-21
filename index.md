@@ -26,7 +26,7 @@ Fun fact about IIT Madras: in addition to being the [top ranked institute](https
 
 {% capture text %}
 
-Key areas of interest include Scientific Machine Learning (SciML) for engineering simulations, Structural Mechanics & Dynamics (with emphasis on Design Optimization, Uncertainty Quantification and System Identification) and Fluid Mechanics (with a focus on micro- and nanoscale flows). Learn more about our ongoing research projects here.
+Key areas of interest include Scientific Machine Learning (SciML) for engineering simulations, Structural Mechanics and Dynamics (with emphasis on Design Optimization, Uncertainty Quantification and System Identification) and Fluid Mechanics (with a focus on micro- and nanoscale flows). Learn more about our ongoing research projects here.
 
 {%
   include button.html
@@ -74,7 +74,7 @@ Prof. Siddhesh Sakhalkar is the Principal Investigator of the M<sup>3</sup> Lab.
 
 {% capture text %}
 
-Please browse through our published papers and patents to learn more about our past research.
+Please review our published papers and patents to learn more about our prior research. In particular, we encourage you to explore our recent work that combines statistical analysis of measured population Frequency Response Function data with Finite Element Method simulations to predict device-to-device variations during high-volume manufacturing of hardware devices.
 
 {%
   include button.html
@@ -92,6 +92,31 @@ Please browse through our published papers and patents to learn more about our p
   image="images/Publications.jpg"
   link="publications"
   title="Publications"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+{% capture text %}
+
+Our core expertise lies in developing theoretical frameworks, numerical models and machine learning methodologies to study static and dynamic problems in solid and fluid mechanics. If you are interested in collaborating with us on a research project, please feel free to contact us.
+
+{%
+  include button.html
+  link="contacts"
+  text="Contact us"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/Publications.jpg"
+  link="contact"
+  title="Collaborations and Parternships"
   flip=true
   style="bare"
   text=text
