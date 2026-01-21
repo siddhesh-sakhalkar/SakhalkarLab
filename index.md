@@ -74,7 +74,7 @@ Prof. Siddhesh Sakhalkar is the Principal Investigator of the M<sup>3</sup> Lab.
 
 {% capture text %}
 
-Please review our published papers and patents to learn more about our prior research. In particular, we encourage you to explore our recent work that combines statistical analysis of measured population Frequency Response Function data with Finite Element Method simulations to predict device-to-device variations during high-volume manufacturing of hardware devices.
+Please review our published papers and patents to learn more about our prior research. In particular, we encourage you to explore our recent work that combines statistical analysis of measured population Frequency Response Function data with Finite Element Method simulations to predict device-to-device variations during high-volume manufacturing.
 
 {%
   include button.html
