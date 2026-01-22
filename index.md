@@ -26,7 +26,7 @@ Fun fact about IIT Madras: in addition to being the [top ranked institute](https
 
 {% capture text %}
 
-Key areas of interest include Scientific Machine Learning (SciML) for engineering simulations, Structural Mechanics and Dynamics (with emphasis on Design Optimization, Uncertainty Quantification and System Identification) and Fluid Mechanics (with a focus on micro- and nanoscale flows). Learn more about our ongoing research projects here.
+Key areas of interest include: (1) Scientific Machine Learning for Engineering Simulations, (2) Structural Mechanics and Dynamics, with a focus on System Identification, Design Optimization and Uncertainty Quantification, (3) Fluid Mechanics and Fluid-Structure Interactions, particularly at the micro- and nanoscale. Learn more about our ongoing research projects here.
 
 {%
   include button.html
