@@ -27,7 +27,7 @@ Our research focuses on developing probabilistic simulation methods to quantify 
 
 {%
   include figure.html
-  image="images/Fluid_Mechanics.png"
+  image="images/Structural_Dynamics.png"
   width="1000px"
 %}
 
