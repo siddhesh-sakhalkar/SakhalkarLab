@@ -36,7 +36,7 @@ In particular, to accurately model micro- and nanoscale fluid flows, effects suc
 {%
   include figure.html
   image="images/Fluid_Mechanics.png"
-  width="750px"
+  width="1000px"
   caption="Overview of M<sup>3</sup> Lab's research"
 %}
 
