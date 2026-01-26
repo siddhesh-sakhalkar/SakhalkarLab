@@ -17,6 +17,12 @@ Designing complex engineering systems requires the formulation of non-linear, co
 
 To address this challenge, we build new SciML models using state-of-the-art frameworks, including neural operators and foundation models, to create robust, accurate and efficient surrogate models for PDE-governed systems. These surrogate models enable rapid approximation of the PDE solution operator, dramatically reducing the computational burden of repeated PDE solves. Our research addresses complex, multiscale and multi-physics problems across solid mechanics, fluid mechanics, tribology and heat transfer. In particular, we emphasize the development of SciML methods with direct applicability to real-world engineering design problems, including large-scale, three-dimensional systems with complex geometries and features. 
 
+{%
+  include figure.html
+  image="images/SciML.png"
+  width="1000px"
+%}
+
 {% include section.html %}
 
 ## **(2) Structural Mechanics and Dynamics: System Identification, Design Optimization, Uncertainty Quantification**
