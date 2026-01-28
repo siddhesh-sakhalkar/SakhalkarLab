@@ -1,1 +1,1 @@
-Sitemap: https://siddhesh-sakhalkar.github.io/sitemap.xml
+Sitemap: http://mcubedlab.com/sitemap.xml
